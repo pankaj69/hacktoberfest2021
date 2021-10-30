@@ -14,6 +14,6 @@ int main ()
 	int n = 9;
 	cout << fib(n);
 	getchar();
-	return 0;
+	return int;
 }
 
